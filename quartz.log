@@ -1,0 +1,471 @@
+
+ Quartz v4.5.2  
+
+Cleaned output directory `public` in 338ms
+Found 125 input files from `content` in 148ms
+Parsing input files using 1 threads
+
+Warning: content/9router-Development-Guide.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/BROWSER_GUIDE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Falcon-1-Internal-FAQ.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Falcon-1-Launch-Review-Agenda.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Falcon-1-PR-FAQ.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Gemini-Embedding-2-Preview.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/LINE_INSTALLATION.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/NEXUS_WALKTHROUGH_REVIEW.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/OPUS_TASK_TEMPLATE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SDD-HARNESS-004.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SOP_AMNESIA_RECOVERY.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SOP_ICU_Opencode.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SOP_MODEL_MANAGEMENT.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SUN_TZU_ARSENAL.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/SUN_TZU_ORACLE.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Shrimp_Council_Ultimate_Truth.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/Tailscale-Hack-Note-Firebase.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260502_20_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260503_0427_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260503_0819_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260503_12_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260503_1618_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260503_20_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_00_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_0433_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_0820_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_12_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_1618_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260504_2030_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_00_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_04_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_08_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_12_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_1623_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260505_2030_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_00_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_04_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_08_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_1220_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_16_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260506_2022_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_00_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_0423_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_0820_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_12_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_1632_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/alchemy/20260507_20_alchemy.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/architecture/system_overview.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/guides/vertex-ai-setup.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/proposals/Shrimp-ClawHub-Spec-V2-Final.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/proposals/Shrimp-ClawHub-Spec-V2.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/proposals/Shrimp-ClawHub-Spec.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260502_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260503_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260504_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260505_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260506_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/research/20260507_perplexity_investigation.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/showcase2_ideation_raw_part1.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/showcase2_ideation_record.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-02__builder__wiki-builder-sync__v2200.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-02__builder__wiki-builder-sync__v2330.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v0600.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v0900.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1000.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1030.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1100.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1200.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1300.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1330.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1430.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1830.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v1900.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v2100.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v2130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-03__builder__wiki-builder-sync__v2330.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v0630.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v0700.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1330.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1500.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1730.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1830.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1900.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-04__builder__wiki-builder-sync__v1930.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v0600.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v0800.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v0900.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v1030.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v1130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v1700.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v1730.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v1830.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v2130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-05__builder__wiki-builder-sync__v2230.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v0700.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1530.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1700.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1730.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1830.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v1900.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v2100.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v2130.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-06__builder__wiki-builder-sync__v2200.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-07__builder__wiki-builder-sync__v0600.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-07__builder__wiki-builder-sync__v1100.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-07__builder__wiki-builder-sync__v1230.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-07__builder__wiki-builder-sync__v1800.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/2026-05-08__builder__wiki-builder-sync__v0014.md isn't yet tracked by git, dates will be inaccurate
+
+Warning: content/tasks/test_sync.md isn't yet tracked by git, dates will be inaccurate
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "「" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "低" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "摩" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "擦" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "付" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "費" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "驗" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "證" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "」" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "目" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "標" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "不" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "利" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "潤" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "最" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "大" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "化" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "而" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "最" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "快" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "拿" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "到" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "真" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "實" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "付" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "費" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "行" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "為" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "（" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "而" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "不" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "按" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "讚" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "）" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "。" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "更" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "重" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "要" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "：" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "‑" (8209) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "我" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "們" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "產" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "品" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "線" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "入" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "口" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+No character metrics for '‑' in style 'Main-Regular' and mode 'text'
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "、" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "不" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "「" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "利" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "潤" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "」" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "是" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "「" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "成" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "交" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "率" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "、" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "名" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "單" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "數" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "、" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "回" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "饋" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "密" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "度" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "」" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "；" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "利" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "潤" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "要" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "在" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "–" (8211) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "–" (8211) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "而" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "在" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "報" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "告" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "結" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "尾" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "看" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "到" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "「" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "本" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "次" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "分" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "析" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "透" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "過" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "壓" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "縮" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "省" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "下" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "主" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "要" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "集" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "中" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "在" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "大" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "規" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "模" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "掃" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "描" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "。" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "消" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "耗" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "佔" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "比" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "極" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "低" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "（" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "低" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "於" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "考" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "慮" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "提" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "供" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "終" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "身" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "買" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "斷" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "月" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "訂" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "閱" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "制" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "主" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "打" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "高" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "顧" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "客" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "終" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "身" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "價" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "值" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "與" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "未" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "來" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "版" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "本" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "追" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "加" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "銷" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "售" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "。" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "則" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "大" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "膽" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "提" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "出" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "月" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "即" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "使" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "利" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "潤" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "微" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "薄" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "仍" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "能" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "提" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "供" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "經" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "常" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "性" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "收" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "入" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "來" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "支" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "付" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "伺" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "服" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "器" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "維" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "護" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "與" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "擴" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "充" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "程" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "式" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "更" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "新" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "。" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "終" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "身" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "具" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "有" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "極" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "佳" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "的" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "初" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "期" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "行" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "銷" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "爆" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "發" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "力" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "，" used in math mode [unicodeTextInMathMode]
+LaTeX-incompatible input and strict mode is set to 'warn': Unicode text character "但" used in math mode [unicodeTextInMathMode]
+Parsed 125 Markdown files in 16s
+Filtered out 0 files in 322μs
+Emitting files
+Emitted 299 files to `public` in 20s
+Done processing 125 files in 37s
+Started a Quartz server listening at http://localhost:8081
+hint: exit with ctrl+c
+[200] /
+[200] /
+[200] /index.css
+[200] /prescript.js
+[200] /postscript.js
+[200] /static/contentIndex.json
+[200] /static/icon.png
+[200] /LINE_INSTALLATION
+[200] /SOP_AMNESIA_RECOVERY
+[200] /SOP_MODEL_MANAGEMENT
+[200] /alchemy/20260502_20_alchemy
