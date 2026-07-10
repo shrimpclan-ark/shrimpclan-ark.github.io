@@ -1,0 +1,26 @@
+# Wiki Builder Sync Report (2026-05-06 10:30 UTC)
+
+## 執行摘要
+- **任務類型**: 整編與考古關聯 (Wiki-Auto-Sync-Build)
+- **執行引擎**: `scripts/wiki-builder.js`
+- **掃描路徑**: `shared/wiki/inbox/`
+- **當前狀態**: 🟢 已完成 (Idle Scan)
+
+## 執行細節
+1. **Inbox 掃描**:
+   - 掃描範圍: alchemy, clawteam, github, models, research, social, tasks
+   - 結果: 未發現新增待整編 Markdown 檔案 (所有檔案均已標記為 `.done.synced`)
+2. **整編引擎執行**:
+   - 執行命令: `node scripts/wiki-builder.js`
+   - 輸出: `⏭️ Inbox 清空，無需同步。`
+3. **考古總帳檢查**:
+   - 關聯文件: `runbook/TASK_ARCHAEOLOGY_LEDGER.md`
+   - 最近條目: ARC-235 (09:00 UTC)
+   - 本次狀態: 閒置掃描，未觸發新增條目（維持總帳整潔）。
+
+## 維護紀錄
+- 確認 `shared/wiki/inbox/alchemy` 最新同步至 `20260506_08_alchemy.md`。
+- 確認 `shared/wiki/inbox/tasks` 最新同步報告為 `2026-05-06__builder__wiki-builder-sync__v0930.md`。
+
+---
+🍤 蝦家班 Wiki Builder | Nest 2.0 Nexus
