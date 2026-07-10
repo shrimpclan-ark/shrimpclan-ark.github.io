@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🦐 Shrimp Clan Ark - Wiki</title>
+      <link>https://shrimpclan-ark.github.io</link>
+      <description>Last 10 notes on 🦐 Shrimp Clan Ark - Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>9router-Development-Guide</title>
+    <link>https://shrimpclan-ark.github.io/9router-Development-Guide</link>
+    <guid>https://shrimpclan-ark.github.io/9router-Development-Guide</guid>
+    <description><![CDATA[ AGENTS.md - 9Router Development Guide This file provides guidance for agentic coding agents working in this repository. ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>audit_result_20260526</title>
+    <link>https://shrimpclan-ark.github.io/9router_audit/audit_result_20260526</link>
+    <guid>https://shrimpclan-ark.github.io/9router_audit/audit_result_20260526</guid>
+    <description><![CDATA[ 🔄 開始解析 9Router 戰情資料… (過濾條件: 過去 24 小時內) 📊 9Router 戰情報告 (近期數據) 分析區間: 過去 24 小時 總請求數 (Total Requests): 72 成功率 (Success Rate): 48.61% 平均延遲 (Avg Latency): 9540 ms 總估算成本 (Total Cost): $0.0000 USD 🤖 系統模型配置現況 (Who Uses What) 當前 openclaw.json 中配置的模型與其綁定對象： 9router/combo3 🎯 Default (Primary) 🎯 Agent: 蝦仁 (... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>BROWSER_GUIDE</title>
+    <link>https://shrimpclan-ark.github.io/BROWSER_GUIDE</link>
+    <guid>https://shrimpclan-ark.github.io/BROWSER_GUIDE</guid>
+    <description><![CDATA[ OpenClaw Browser Automation Troubleshooting Guide Source: Perplexity &amp; User Provided (2026-02-21) Common Issues &amp; Solutions 1. ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>Falcon-1-Internal-FAQ</title>
+    <link>https://shrimpclan-ark.github.io/Falcon-1-Internal-FAQ</link>
+    <guid>https://shrimpclan-ark.github.io/Falcon-1-Internal-FAQ</guid>
+    <description><![CDATA[ Internal FAQ — Falcon‑1 (Launch Review) A. ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>Falcon-1-Launch-Review-Agenda</title>
+    <link>https://shrimpclan-ark.github.io/Falcon-1-Launch-Review-Agenda</link>
+    <guid>https://shrimpclan-ark.github.io/Falcon-1-Launch-Review-Agenda</guid>
+    <description><![CDATA[ Launch Review 議程（90 分鐘版） 適用：Falcon‑1（$1 Gumroad 上架）發射前評審會 參與人數建議：6–10 人（兩披薩隊規模），超過就拆會。 會前（T‑24h，非會議時間） 文件：PR/FAQ（External）＋ Internal FAQ 放同一份 Doc（建議 Google Doc / Notion）。 主持人（Host）設定：會議邀請上寫清楚「本會議第一段為靜讀，請準時」。 會議目標寫死（放在文件最上方）： 目標：決定是否在 X 日上架（Go / No‑Go / Conditional Go），並鎖定發射後 7 天的指標與 owner。 0:00–0:03... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>Falcon-1-PR-FAQ</title>
+    <link>https://shrimpclan-ark.github.io/Falcon-1-PR-FAQ</link>
+    <guid>https://shrimpclan-ark.github.io/Falcon-1-PR-FAQ</guid>
+    <description><![CDATA[ PR/FAQ (External) — Falcon‑1 Press Release (1‑pager) FOR IMMEDIATE RELEASE ShrimpClass Launches Falcon‑1: A $1 Field Report That Turns Agentic AI From “Cool Demos” Into Deployable Workflows for Solo Devs A practical, guardrail-first blueprint for building AI agents that run on a shoestring budget—wi... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>Gemini-Embedding-2-Preview</title>
+    <link>https://shrimpclan-ark.github.io/Gemini-Embedding-2-Preview</link>
+    <guid>https://shrimpclan-ark.github.io/Gemini-Embedding-2-Preview</guid>
+    <description><![CDATA[ 嵌入 跳至主要內容 Gemini API 文件 API 參考資料 取得 API 金鑰 教戰手冊 Community 開始使用 總覽 快速入門導覽課程 API 金鑰 程式庫 定價 Interactions API 模型 所有模型 Gemini 3 Nano Banana Veo Lyria Imagen 文字轉語音 嵌入 機器人工學 核心功能 文字 文件 結構化輸出內容 函式呼叫 詳細背景資訊 工具和代理程式 總覽 Deep Research Google Search Google Maps 執行程式碼 網址背景資訊 電腦使用 檔案搜尋 Live API 總覽 功能 使用工具 工作階段管理 暫... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>LINE_INSTALLATION</title>
+    <link>https://shrimpclan-ark.github.io/LINE_INSTALLATION</link>
+    <guid>https://shrimpclan-ark.github.io/LINE_INSTALLATION</guid>
+    <description><![CDATA[ OpenClaw LINE 串接安裝大綱 階段一：環境確認（5分鐘） ✅ 確認 OpenClaw 已安裝 在 GCP Cloud Shell 執行 openclaw --version 確認 OpenClaw Gateway 正在運行 ✅ 確認網路連線 檢查 Cloud Shell 是否可以連外網 確認可以執行 curl 命令 階段二：安裝 LINE Connector（5分鐘） 下載並安裝 openclaw-line connector curl -fsSL moltbot4line.nocory.ai/install.sh | bash 這會安裝 openclaw-line 命令工具 建立... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>NEXUS_WALKTHROUGH_REVIEW</title>
+    <link>https://shrimpclan-ark.github.io/NEXUS_WALKTHROUGH_REVIEW</link>
+    <guid>https://shrimpclan-ark.github.io/NEXUS_WALKTHROUGH_REVIEW</guid>
+    <description><![CDATA[ Opus Cognitive Nexus 交付成果研究 (2026-03-18) 架構與實作亮點 架構完整性: 從資料攝取 (ingest.py 搭配 Gemini Flash 萃取信號)、向量化 (embedding.py MRL 768-dim + L2 normalization)、儲存 (schema.py &amp; db.py LanceDB)、到異常偵測 (detector.py)、回饋與自適應閾值 (feedback.py) 以及 Heartbeat 整合 (heartbeat.py)，一應俱全。 完全符合最初 PROJECT_COGNITIVE_NEXUS.md 的規劃，且結... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item><item>
+    <title>OPUS_TASK_TEMPLATE</title>
+    <link>https://shrimpclan-ark.github.io/OPUS_TASK_TEMPLATE</link>
+    <guid>https://shrimpclan-ark.github.io/OPUS_TASK_TEMPLATE</guid>
+    <description><![CDATA[ Opus-Style Task Breakdown Template (進化版 OpenSpec) 核心精神 基於 Antigravity Opus 4.6 Thinking 的施工藝術。將複雜專案進行「結構化拆解 (Hierarchical Breakdown)」，明確定義狀態、依賴關係與驗證標準。 Tasks [/] Phase 1: Planning &amp; Design (規劃與設計) Research 核心技術與依賴套件 Analyze 架構藍圖與限制 [/] Write implementation plan (撰寫實作計畫) User review &amp; approva... ]]></description>
+    <pubDate>Thu, 11 Jun 2026 04:29:35 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
